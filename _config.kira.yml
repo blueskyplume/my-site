@@ -17,7 +17,7 @@ cdn:
     giscus:
         js: https://giscus.app/client.js
 
-# beian: 赣ICP备2021007955号-3 # 备案号（选填）
+beian: 赣ICP备2022010980号-1 # 备案号（选填）
 
 menu:
     回到首页:
